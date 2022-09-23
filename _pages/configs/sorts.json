@@ -1,0 +1,35 @@
+{
+    "": [
+        "markdown.md", 
+        "cv.md", 
+        "publications.md", 
+        "terms.md", 
+        "404.md", 
+        "non-menu-page.md", 
+        "about.md", 
+        "archive-layout-with-content.md", 
+        "sitemap.md"
+    ], 
+    "__positions": {
+        "archive-layout-with-content.md": 8, 
+        "404.md": 5, 
+        "sitemap.md": 9, 
+        "non-menu-page.md": 6, 
+        "publications.md": 3, 
+        "terms.md": 4, 
+        "about.md": 7, 
+        "markdown.md": 1, 
+        "cv.md": 2
+    }, 
+    "__raw_positions": {
+        "archive-layout-with-content.md": 8, 
+        "404.md": 5, 
+        "sitemap.md": 9, 
+        "terms.md": 4, 
+        "publications.md": 3, 
+        "non-menu-page.md": 6, 
+        "about.md": 7, 
+        "markdown.md": 1, 
+        "cv.md": 2
+    }
+}

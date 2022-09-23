@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Honghao Wei"
-  avatar           : "head.PNG"
+  avatar           : "Avatar.jpg"
   bio              : "Ph.D. Candidate in EECS at UMich"
   location         : "Ann arbor, MI"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
