@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Honghao Wei"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "head.PNG"
+  bio              : "Ph.D. Candidate in EECS at UMich"
+  location         : "Ann arbor, MI"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
