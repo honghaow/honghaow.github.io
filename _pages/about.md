@@ -15,10 +15,10 @@ I am a final year Ph.D. student in the Department of  Electrical Engineering and
 
 My major research interests include:
 
-- Onlinear learning and decision-marking
+- Onlinear Learning and Decision-marking
 - Reinforcement Learning and Constrained Reinforcement Learning
 - Stochastic Modeling, Analysis and Optimization
-- Reinforcement Learning with applications in communication and ride-hairing networks
+- Reinforcement Learning with Applications in Communication and Ride-hairing Networks
 
 ## Selected Publications
 
@@ -28,7 +28,7 @@ Hengquan Guo, Xin Liu, **Honghao Wei,** Lei Ying, "Online Convex Optimization wi
 
 **Honghao Wei,** Xin Liu, Lei Ying, ["A Provably-Efficient Model-Free Algorithm for Infinite-Horizon Average-Reward Constrained Markov Decision Processes"](https://www.aaai.org/AAAI22Papers/AAAI-8499.HonghaoW.pdf) in Proc. **AAAI-22** (acceptance rate: *15.0%*).
 
-Qining Zhang, **Honghao Wei,** Weichang Wang, Lei Ying, ["On Low-Complexity Quickest Intervention of Mutated Diffusion Processes Through Local Approximation"](https://arxiv.org/pdf/2206.04733.pdf) in Proc. **MobiHoc-22** (acceptance rate: *20%*).
+Qining Zhang, **Honghao Wei,** Weina Wang, Lei Ying, ["On Low-Complexity Quickest Intervention of Mutated Diffusion Processes Through Local Approximation"](https://arxiv.org/pdf/2206.04733.pdf) in Proc. **MobiHoc-22** (acceptance rate: *20%*).
 
 **Honghao Wei,** Lei Ying ["Fork: A forward-looking actor for model-free reinforcement learning"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9683288) in Proc. **CDC-21**.
 
@@ -55,4 +55,3 @@ Lab Teaching Assistant, EEE 455 Communication Systems, Fall 2017.
 ----
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=200&t=n&d=tp9u_NjgR8RoZ68Gx0deVmgIR3b2lyJgrolOc57KXEE&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
-
