@@ -15,10 +15,10 @@ I am a final year Ph.D. student in the Department of  Electrical Engineering and
 
 My major research interests include:
 
-- Onlinear Learning and Decision-marking
+- Onlinear Learning and Decision-making
 - Reinforcement Learning and Constrained Reinforcement Learning
 - Stochastic Modeling, Analysis and Optimization
-- Reinforcement Learning with Applications in Communication and Ride-hairing Networks
+- Reinforcement Learning with Applications in Communication, Ride-hailing Networks, and Social Networks
 
 ## Selected Publications
 
