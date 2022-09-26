@@ -36,6 +36,8 @@ Qining Zhang, **Honghao Wei,** Weina Wang, Lei Ying, ["On Low-Complexity Quickes
 
 ## Teaching Experience
 
+Graduate Student Instructor, EECS 598 Reinforcement Learning, Winter 2022.
+
 Graduate Student Instructor, EECS 501 Probability and Random Processes, Fall 2021.
 
 Graduate Student Instructor, EECS 598 Reinforcement Learning, Winter 2020.
