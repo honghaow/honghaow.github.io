@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a final year Ph.D. student in the Department of  Electrical Engineering and Computer Science at [The University of Michigan](https://eecs.engin.umich.edu/). I am very fortunate to be advised by [Prof. Lei Ying](https://leiying.engin.umich.edu/). My research interests lie in designing theoretical and practical machine learning algorithms with strong theoretical guarantees.
+I am a final year Ph.D. student in the Department of  Electrical Engineering and Computer Science at [The University of Michigan, Ann  Arbor](https://eecs.engin.umich.edu/). I am very fortunate to be advised by [Prof. Lei Ying](https://leiying.engin.umich.edu/). My research interests lie in designing theoretical and practical machine learning algorithms with strong theoretical guarantees.
 
 ## Research
 
@@ -19,6 +19,10 @@ My major research interests include:
 - Reinforcement Learning and Constrained Reinforcement Learning
 - Stochastic Modeling, Analysis and Optimization
 - Reinforcement Learning with Applications in Communication, Ride-hailing Networks, and Social Networks
+
+## Preprints
+
+ Xin Liu, **Honghao Wei**, Lei Ying, ''[Scalable and Sample Efficient Distributed Policy Gradient Algorithms in Multi-Agent Networked Systems.'']([[2212.06357] Scalable and Sample Efficient Distributed Policy Gradient Algorithms in Multi-Agent Networked Systems](https://arxiv.org/abs/2212.06357)) 
 
 ## Selected Publications
 
