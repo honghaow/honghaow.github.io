@@ -26,7 +26,7 @@ My major research interests include:
 
 ## Selected Publications
 
-**Honghao Wei,** Arnob Ghosh, Xingyu Zhou, Lei Ying, Ness Shroff, ''Provably Efficient Model-Free Algorithms for Non-stationary CMDPs'' in Proc. **AISTATS-23***
+**Honghao Wei,** Arnob Ghosh, Xingyu Zhou, Lei Ying, Ness Shroff, ''Provably Efficient Model-Free Algorithms for Non-stationary CMDPs'' in Proc. **AISTATS-23**
 
 Hengquan Guo, Xin Liu, **Honghao Wei,** Lei Ying, ["Online Convex Optimization with Hard Constraints: Towards the Best of Two Worlds and Beyond"](https://openreview.net/pdf?id=rwdpFgfVpvN) in Proc. **NeurIPS-22** (acceptance rate: *25.6%*). 
 
