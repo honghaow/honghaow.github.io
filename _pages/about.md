@@ -26,9 +26,7 @@ My major research interests include:
 
 ## Selected Publications
 
-**Honghao Wei,** Arnob Ghosh, Xingyu Zhou, Lei Ying, Ness Shroff, "Provably Efficient Model-Free Algorithms for Non-stationary CMDPs" in Proc. **AISTATS-23.**
-
-Hengquan Guo, Xin Liu, **Honghao Wei,** Lei Ying, ["Online Convex Optimization with Hard Constraints: Towards the Best of Two Worlds and Beyond"](https://openreview.net/pdf?id=rwdpFgfVpvN) in Proc. **NeurIPS-22** (acceptance rate: *25.6%*). 
+Hengquan Guo, Xin Liu, **Honghao Wei,** Lei Ying, "Online Convex Optimization with Hard Constraints: Towards the Best of Two Worlds and Beyond" in Proc. **NeurIPS-22** (acceptance rate: *25.6%*). 
 
 **Honghao Wei,** Xin Liu, Lei Ying, ["Triple-Q: A Model-Free Algorithm for Constrained Reinforcement Learning with Sublinear Regret and Zero Constraint Violation"](https://proceedings.mlr.press/v151/wei22a/wei22a.pdf)  in Proc. **AISTATS-22** (acceptance rate: *29%*) .
 
@@ -56,7 +54,7 @@ Lab Teaching Assistant, EEE 455 Communication Systems, Fall 2017.
 
 ## Professional Service
 
-**Conference Reviewer:**  NeurIPS 22 / ICML 22, 23 / AAAI 22, 23 / AISTATS 22,23 / OnlineMarketplaces 2022 / ISIT 21/ CDC 21/ RL4ITS 21 / L4DC 23
+**Conference Reviewer:**  NeurIPS 22 / ICML 22 / ICML 22 / AAAI 22, 23 / AISTATS 22,23 / OnlineMarketplaces 2022 / ISIT 21/ CDC 21/ RL4ITS 21 / 
 
 **Journal Reviewer:** IEEE Trans. Inf. Theory / Netw / Control. Netw. Syst.
 
