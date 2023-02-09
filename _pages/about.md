@@ -26,7 +26,9 @@ My major research interests include:
 
 ## Selected Publications
 
-Hengquan Guo, Xin Liu, **Honghao Wei,** Lei Ying, "Online Convex Optimization with Hard Constraints: Towards the Best of Two Worlds and Beyond" in Proc. **NeurIPS-22** (acceptance rate: *25.6%*). 
+**Honghao Wei,** Arnob Ghosh, Xingyu Zhou, Lei Ying, Ness Shroff, ''Provably Efficient Model-Free Algorithms for Non-stationary CMDPs'' in Proc. **AISTATS-23***
+
+Hengquan Guo, Xin Liu, **Honghao Wei,** Lei Ying, ["Online Convex Optimization with Hard Constraints: Towards the Best of Two Worlds and Beyond"](https://openreview.net/pdf?id=rwdpFgfVpvN) in Proc. **NeurIPS-22** (acceptance rate: *25.6%*). 
 
 **Honghao Wei,** Xin Liu, Lei Ying, ["Triple-Q: A Model-Free Algorithm for Constrained Reinforcement Learning with Sublinear Regret and Zero Constraint Violation"](https://proceedings.mlr.press/v151/wei22a/wei22a.pdf)  in Proc. **AISTATS-22** (acceptance rate: *29%*) .
 
