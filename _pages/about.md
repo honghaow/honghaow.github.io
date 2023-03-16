@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I will join the Computer Science department at the **Washington State University (WSU)** as an tenure track assistant professor from Fall 2023. I am very fortunate to be advised by [Prof. Lei Ying](https://leiying.engin.umich.edu/) in Department of Electrical Engineering and Computer Science at [The University of Michigan, Ann Arbor](https://eecs.engin.umich.edu/). My research interests lie in designing scalable, theoretical and practical machine learning algorithms with strong theoretical guarantees.
+I will join the Computer Science department at the **Washington State University (WSU)** as a tenure track assistant professor from Fall 2023. I am very fortunate to be advised by [Prof. Lei Ying](https://leiying.engin.umich.edu/) in Department of Electrical Engineering and Computer Science at [The University of Michigan, Ann Arbor](https://eecs.engin.umich.edu/). My research interests lie in designing scalable, theoretical and practical machine learning algorithms with strong theoretical guarantees.
 
 ## To Prospective Students
 
