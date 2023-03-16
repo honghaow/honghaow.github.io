@@ -9,7 +9,15 @@ redirect_from:
 
 ## About Me
 
-I am a final year Ph.D. student in the Department of  Electrical Engineering and Computer Science at [The University of Michigan, Ann  Arbor](https://eecs.engin.umich.edu/). I am very fortunate to be advised by [Prof. Lei Ying](https://leiying.engin.umich.edu/). My research interests lie in designing theoretical and practical machine learning algorithms with strong theoretical guarantees.
+I will join the Computer Science department at the **Washington State University (WSU)** as an tenure track assistant professor from Fall 2023. I am very fortunate to be advised by [Prof. Lei Ying](https://leiying.engin.umich.edu/) in Department of Electrical Engineering and Computer Science at [The University of Michigan, Ann Arbor](https://eecs.engin.umich.edu/). My research interests lie in designing scalable, theoretical and practical machine learning algorithms with strong theoretical guarantees.
+
+## To Prospective Students
+
+- **I am looking for highly motivated students with strong  backgrounds in matthematics, reinforcement learning, machine learning and optimization to work with me.**
+
+- **Moreover, intern and visiting students are highly welcome!**
+
+> Please send me an email (honghaow at umich dot edu) if you are interested in working with me. Please include your resume, undergraduate/graduate transcripts.
 
 ## Research
 
