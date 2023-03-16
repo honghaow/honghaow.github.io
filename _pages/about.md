@@ -15,7 +15,7 @@ I will join the Computer Science Department at the [Washington State University
 
 $\color{red}{\text{I have multiple fully-funded Ph.D. openings in my group at WSU}}.$
 
-- **I am looking for highly motivated students with strong  backgrounds in matthematics, reinforcement learning, machine learning and optimization to work with me.**
+- **I am looking for highly motivated students with strong backgrounds in mathematics, reinforcement learning, machine learning and optimization to work with me.**
 
 - **Moreover, intern and visiting students are highly welcome!**
 
