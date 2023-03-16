@@ -13,7 +13,7 @@ I will join the Computer Science Department at the [Washington State University
 
 ## To Prospective Students
 
-$$\color{blue}{Blue} I have `multiple Ph.D. openings` in my group at WSU.$$
+$\color{red}{\text{I have multiple fully-funded Ph.D. openings in my group at WSU}}.$
 
 - **I am looking for highly motivated students with strong  backgrounds in matthematics, reinforcement learning, machine learning and optimization to work with me.**
 
