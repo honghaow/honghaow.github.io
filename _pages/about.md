@@ -9,17 +9,17 @@ redirect_from:
 
 ## About Me
 
-I will join the Computer Science Department at the [Washington State University (WSU)](https://school.eecs.wsu.edu/) as a tenure track assistant professor from Fall 2023. I am very fortunate to be advised by [Prof. Lei Ying](https://leiying.engin.umich.edu/) in Department of Electrical Engineering and Computer Science at [The University of Michigan, Ann Arbor](https://eecs.engin.umich.edu/). My research interests lie in designing scalable, theoretical and practical machine learning algorithms with strong theoretical guarantees.
+I will join the Computer Science Department at [Washington State University (WSU)](https://school.eecs.wsu.edu/) as a tenure track assistant professor in Fall 2023. I am very fortunate to be advised by [Prof. Lei Ying](https://leiying.engin.umich.edu/) in the Department of Electrical Engineering and Computer Science at [The University of Michigan, Ann Arbor](https://eecs.engin.umich.edu/). My research interests lie in designing scalable, theoretical, and practical machine learning algorithms with strong theoretical guarantees.
 
 ## To Prospective Students
 
 $\color{red}{\text{I have multiple fully-funded Ph.D. openings in my group at WSU}}.$
 
-- **I am looking for highly motivated students with strong backgrounds in mathematics, reinforcement learning, machine learning and optimization to work with me.**
+- **I am looking for highly motivated students with strong backgrounds in mathematics, reinforcement learning, machine learning, and optimization to work with me.**
 
-- **Moreover, intern and visiting students are highly welcome!**
+- **Moreover, interns and visiting students are highly welcome!**
 
-> Please send me an email (honghaow at umich dot edu) if you are interested in working with me. Please include your resume, undergraduate/graduate transcripts.
+> Please send me an email (honghaow at umich dot edu) if you are interested in working with me. Please include your resume, and undergraduate/graduate transcripts.
 
 ## Research
 
@@ -36,7 +36,7 @@ My major research interests include:
 
 ## Selected Publications
 
-**Honghao Wei,** Arnob Ghosh, Xingyu Zhou, Lei Ying, Ness Shroff, ''Provably Efficient Model-Free Algorithms for Non-stationary CMDPs'' in Proc. **AISTATS-23**
+**Honghao Wei,** Arnob Ghosh, Xingyu Zhou, Lei Ying, Ness Shroff, [''Provably Efficient Model-Free Algorithms for Non-stationary CMDPs''](https://arxiv.org/pdf/2303.05733.pdf) in Proc. **AISTATS-23**
 
 Hengquan Guo, Xin Liu, **Honghao Wei,** Lei Ying, ["Online Convex Optimization with Hard Constraints: Towards the Best of Two Worlds and Beyond"](https://openreview.net/pdf?id=rwdpFgfVpvN) in Proc. **NeurIPS-22** (acceptance rate: *25.6%*). 
 
