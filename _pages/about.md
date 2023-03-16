@@ -13,6 +13,8 @@ I will join the Computer Science department at the **Washington State Universit
 
 ## To Prospective Students
 
+ I have multiple Ph.D. openings in my group at WSU.
+
 - **I am looking for highly motivated students with strong  backgrounds in matthematics, reinforcement learning, machine learning and optimization to work with me.**
 
 - **Moreover, intern and visiting students are highly welcome!**
