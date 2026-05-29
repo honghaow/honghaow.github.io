@@ -370,3 +370,49 @@ img.menu {
 	padding-bottom: 1.2em;
 	margin: 0;
 }
+
+/* ===== Publication venue tags ===== */
+.icml, .neurips, .iclr, .aaai, .ijcai, .aistats, .uai, .colt,
+.cvpr, .iccv, .eccv, .wacv,
+.acl, .emnlp, .naacl,
+.kdd, .www, .sigir,
+.icra, .iros, .corl, .rss,
+.tpami, .jmlr, .tmlr {
+    display: inline-block;
+    padding: 0 6px;
+    margin: 0 3px 0 0;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+    border-radius: 4px;
+    color: #ffffff;
+    line-height: 1.4;
+    vertical-align: baseline;
+    letter-spacing: 0.3px;
+}
+
+.icml     { background-color: #3b7dd8; }
+.neurips  { background-color: #8e44ad; }
+.iclr     { background-color: #c0392b; }
+.aaai     { background-color: #2c3e50; }
+.ijcai    { background-color: #1f6f8b; }
+.aistats  { background-color: #27ae60; }
+.uai      { background-color: #117a65; }
+.colt     { background-color: #6e2c00; }
+.cvpr     { background-color: #16a085; }
+.iccv     { background-color: #d35400; }
+.eccv     { background-color: #2980b9; }
+.wacv     { background-color: #5dade2; }
+.acl      { background-color: #e67e22; }
+.emnlp    { background-color: #922b21; }
+.naacl    { background-color: #884ea0; }
+.kdd      { background-color: #c2185b; }
+.www      { background-color: #7d6608; }
+.sigir    { background-color: #4a6572; }
+.icra     { background-color: #1a5276; }
+.iros     { background-color: #196f3d; }
+.corl     { background-color: #5b2c6f; }
+.rss      { background-color: #7b7d7d; }
+.tpami    { background-color: #34495e; }
+.jmlr     { background-color: #444444; }
+.tmlr     { background-color: #555555; }
