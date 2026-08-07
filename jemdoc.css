@@ -416,3 +416,19 @@ img.menu {
 .tpami    { background-color: #34495e; }
 .jmlr     { background-color: #444444; }
 .tmlr     { background-color: #555555; }
+
+/* ===== Acknowledgement logo row ===== */
+.ack-logos {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.ack-logos img {
+    height: 100px;
+    width: auto;
+    object-fit: contain;
+}
