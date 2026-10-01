@@ -372,7 +372,7 @@ img.menu {
 }
 
 /* ===== Publication venue tags ===== */
-.icml, .neurips, .iclr, .aaai, .ijcai, .aistats, .uai, .colt,
+.icml, .neurips, .iclr, .aaai, .cdc, .aistats, .uai, .colt,
 .cvpr, .iccv, .eccv, .wacv,
 .acl, .emnlp, .naacl,
 .kdd, .www, .sigir,
@@ -395,7 +395,7 @@ img.menu {
 .neurips  { background-color: #8e44ad; }
 .iclr     { background-color: #c0392b; }
 .aaai     { background-color: #2c3e50; }
-.ijcai    { background-color: #1f6f8b; }
+.cdc    { background-color: #1f6f8b; }
 .aistats  { background-color: #27ae60; }
 .uai      { background-color: #117a65; }
 .colt     { background-color: #6e2c00; }
